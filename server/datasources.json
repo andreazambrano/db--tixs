@@ -3,7 +3,7 @@
     "host": "3.234.73.161",
     "port": 25018,
     "url": "",
-    "database": "TreksDB",
+    "database": "TixsDB",
     "password": "",
     "name": "db",
     "user": "",
